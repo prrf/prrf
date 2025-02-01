@@ -1,8 +1,8 @@
 ### Howdy hey 👋
 
 
-- 🔭 I’m currently working on literally nothing
-- 😄 Pronouns: any/all
+- 🔭 I’m currently working on SHITGAME 3: The PREQEUL
+- 😄 Pronouns: She/They
 - 🐔 Fun fact: chicken
 
 <!--
