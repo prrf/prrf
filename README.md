@@ -1,12 +1,7 @@
 ### Howdy hey 👋
 
+see full at https://prrf.github.io/
 
-- 🔭 I’m currently working on SHITGAME 3: The PREQEUL
-- 😄 Pronouns: She/They
+- 🔭 I’m currently focusing on life
+- 😄 Pronouns: She/Her
 - 🐔 Fun fact: chicken
-
-<!--
-**prrf/prrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
