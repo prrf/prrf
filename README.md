@@ -1,6 +1,6 @@
 ### Howdy hey 👋
 
-see full at https://prrf.github.io/
+see full at https://belli.gay/
 
 - 🔭 I’m currently focusing on life
 - 😄 Pronouns: She/Her
